@@ -1,2 +1,2 @@
 # m-sum
-Multithreaded sum calculator
+Multiprocess sum calculator
